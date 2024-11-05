@@ -149,7 +149,6 @@ global:
       limit:
         memory: 4Gi
         cpu: 2
-      requests: {}
       ## Example:
       ## limits:
       ##    cpu: 200m
